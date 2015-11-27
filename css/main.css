@@ -1,0 +1,251 @@
+/*{outline:1px solid black;}
+div{outline:1px solid blue;}
+.row{outline:2px solid red;}
+{outline:1px dotted green;}*/
+/*_______________GLOBAL_______________*/
+.todo{
+	padding: 0px 0px 30px 0px;
+}
+a:hover{
+	text-decoration: none;
+}
+a{
+	color: black;
+}
+.container-fluid{
+	padding: 30px 30px 0px 30px;
+}
+.lorem{
+	font-weight: bold;
+}
+.lorem4{
+	margin-top: 20px;
+}
+.fecha a, .texto-lorem{
+	color:gray;	
+}
+.fecha a{
+	font-weight: bold;
+}
+.texto-lorem{
+	padding-right:15px;
+}
+/*_______________HEADER_______________*/
+/*_______________header 1_______________*/
+.list-nav li{
+	list-style: none;
+	display: inline-block;
+	padding: 0px 10px;
+}
+.logo{
+	margin: 0;
+}
+.list-nav li:nth-child(2){
+	border-right: 1px solid black;
+}
+.buscar{
+	margin: 0px ;
+	font-size: 17px;
+	padding: 7px 25px 4px 25px;
+}
+/*______________header 2________________*/
+.navegacion{
+	padding: 0px 30px;
+}
+.navbar-default{
+	background: #E6E6E6;
+	border-bottom: white; 
+}
+/*______________CONTENT________________*/
+.content-1{
+	padding: 0px;
+}
+/*______________CONTENT 1________________*/
+.borde{
+	border-bottom: 1px solid #A7A7A7;
+}
+h5{
+	font-weight: bold;
+}
+/*______________parte 1________________*/
+.contenido{
+	padding: 0px 45px;
+}
+.historia{
+	background: #A7A7A7;
+	color: white;
+	padding: 5px;
+	width: 160px;
+}
+.publicado1{
+	color:gray;
+	border-left: 1px solid black;
+	padding-left: 5px;
+	font-size: 11px;
+}
+.a h5{
+	display: inline-block;
+}
+.b li{
+	list-style: none;
+	display: inline-block;
+	padding: 0px;
+}
+.b{
+	padding: 0px;
+}
+li.etiqueta{ /*li NO ESPACIO .etiqueta*/
+	padding-left:50px ;
+}
+
+/*______________parte 2________________*/
+.webzone{
+	background: black;
+	color: white;
+	padding: 3px 10px;
+	width: 80px;
+	margin-right: 10px;
+}
+.a h6 {
+	display: inline-block;
+}
+.publicado2{
+	color:black;
+	border-left: 1px solid black;
+	padding-left: 5px;
+	font-size: 11px;
+	font-weight: bold;
+}
+/*______________parte 3___________________*/
+.foto{
+	background: #eee;
+	padding: 60px;
+	margin-right: 15px;
+}
+.text-foto{
+	margin: 10px 0px;
+}
+.lista-video{
+	padding: 0px 20px;
+}
+.publicado-video{
+	padding: 0px;
+	border-left: none;
+}
+/*______________parte 4________________*/
+
+/*______________CONTENT 2________________*/
+.contenido-2{
+	padding: 0px 7px;
+}
+/*______________parte 5________________*/
+.video{
+	background: #E6E6E6;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+.video-responsive {
+    position: relative;
+    margin-bottom: 20px;
+    padding-top: 56.25%;
+}
+.video-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/*______________parte 6________________*/
+.list-agenda{
+	padding-left: 0px;
+}
+
+.agenda{
+	border-bottom: 1px solid #A7A7A7;
+}
+.list-agenda li{
+  margin-bottom: 12px;
+  list-style: none;
+}
+.list-agenda li>span{
+    background: lightgray;
+    font-size: 19px;
+    display: inline-block;
+    padding: 10px 10px;
+    color: black;
+    margin-right: 30px;
+}
+.list-agenda li>p{
+  display: inline-block;
+  font-size: 13px;
+  margin-bottom: 0;
+  width: 60%;
+}
+.list-agenda p>span{
+  padding-top: 10px;
+}
+.list-agenda p>strong, .sect-more p>strong{
+  font-size: 14px;
+  color: black;
+}
+/*______________parte 7________________*/
+.mas-informacion{
+	font-weight: bold;
+	padding: 0px 0px 8px 0px;
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+.mas-informacion1{
+	padding-top: 5px;
+}
+.informacion{
+	color:gray;
+}
+.infor p{
+	margin: -5px;
+}
+/*______________CONTENT 3________________*/
+.ultimo{
+	padding: 0px;
+}
+/*______________parte 8________________*/
+.peque{
+	margin:10px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #A7A7A7;
+}
+.puntos{
+	list-style: none;
+	padding-left: 15px;
+}
+/*______________parte 9________________*/
+.cuadros{
+	margin:10px;
+	padding: 10px 10px;
+	background: #E6E6E6;
+}
+.magazine{
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+.enquete{
+	margin:0px;
+	font-size: 13px;
+}
+.espacio{
+	width: 5px;
+}
+/*_____________FOOTER_________________*/
+.footer-lista{
+padding: 0px;
+list-style: none;
+}
+.division{
+padding: 7px;
+margin-top: 0px;
+}
+.footer{
+border-top: 3px solid black;
+}
+/*______________________________*/
